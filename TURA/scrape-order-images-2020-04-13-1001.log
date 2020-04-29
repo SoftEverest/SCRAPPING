@@ -1,0 +1,43 @@
+***************i  1    0  i***************
+Spider error processing <GET https://www.turascandinavia.com/sv/inloggningssida> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\S_Scraping\tool-python-scraper-csv-master\TURA\scraping\spiders\tura(all).py", line 84, in parse
+    self.driver.get(list1[i])
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'url' must be a string
+  (Session info: chrome=80.0.3987.163)
+
+Crawled 3 pages (at 3 pages/min), scraped 0 items (at 0 items/min)
+Closing spider (finished)
+Dumping Scrapy stats:
+{'downloader/request_bytes': 1183,
+ 'downloader/request_count': 5,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/response_bytes': 313605,
+ 'downloader/response_count': 5,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/301': 2,
+ 'elapsed_time_seconds': 153.473693,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 4, 13, 19, 3, 54, 120396),
+ 'log_count/DEBUG': 9,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 12,
+ 'response_received_count': 3,
+ 'robotstxt/request_count': 2,
+ 'robotstxt/response_count': 2,
+ 'robotstxt/response_status_count/200': 2,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'spider_exceptions/InvalidArgumentException': 1,
+ 'start_time': datetime.datetime(2020, 4, 13, 19, 1, 20, 646703)}
+Spider closed (finished)

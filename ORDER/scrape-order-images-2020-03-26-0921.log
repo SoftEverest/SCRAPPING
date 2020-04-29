@@ -1,0 +1,115 @@
+Start
+90**********3***********
+**********https://order.se/champion-c5716/butiksstall/***********
+90**********4***********
+**********https://order.se/champion-c5716/data-c6166/***********
+77**********0***********
+**********https://order.se/stall-vit-plat-600mm-m-hjul-chstall065/***********
+rec_price non-exist
+77**********1***********
+**********https://order.se/stall-svart-plat-600mm-m-hjul-chstall060/***********
+rec_price non-exist
+77**********2***********
+**********https://order.se/stoppkort-chstoppkort/***********
+rec_price non-exist
+paragraph non-exist
+77**********3***********
+**********https://order.se/spjut-chstall065-10-pack-vit-chspjut015/***********
+rec_price non-exist
+77**********4***********
+**********https://order.se/spjut-chstall060-10-pack-svart-chspjut010/***********
+rec_price non-exist
+77**********5***********
+**********https://order.se/usb-20-c-till-a-1m-97410ch/***********
+77**********6***********
+**********https://order.se/laddsynk-kabel-lightning-1m-svart-97122ch/***********
+77**********7***********
+**********https://order.se/laddsynk-kabel-microusb-1m-svart-97111ch/***********
+77**********8***********
+**********https://order.se/laddsynk-kabel-lightning-1m-vit-97121ch/***********
+77**********9***********
+**********https://order.se/usb-20-c-till-a-2m-97412ch/***********
+77**********10***********
+**********https://order.se/laddsynk-kabel-lightning-2m-svart-97123ch/***********
+77**********11***********
+**********https://order.se/laddsynk-kabel-lightning-2m-vit-97120ch/***********
+77**********12***********
+**********https://order.se/natverkskabel-cat6-utp-50m-ch4405/***********
+77**********13***********
+**********https://order.se/natverkskabel-cat6-utp-30m-ch4403/***********
+77**********14***********
+**********https://order.se/laddsynk-kabel-lightning-3m-svart-97124ch/***********
+77**********15***********
+**********https://order.se/lightning-kabel-2m-pu-lader-svart-97219ch/***********
+77**********16***********
+**********https://order.se/laddsynk-kabel-microusb-2m-svart-97112ch/***********
+77**********17***********
+**********https://order.se/natverkskabel-cat6-utp-150m-ch4421/***********
+77**********18***********
+**********https://order.se/natverkskabel-cat6-utp-200m-ch4422/***********
+77**********19***********
+**********https://order.se/natverkskabel-cat6-utp-10m-ch4401/***********
+77**********20***********
+**********https://order.se/usb-kab-ab-micro-usb-10m-ch4457/***********
+77**********21***********
+**********https://order.se/natverkskabel-cat5e-utp-100m-ch4306/***********
+77**********22***********
+**********https://order.se/natverkskabel-cat6-utp-100m-ch4406/***********
+77**********23***********
+**********https://order.se/usb-20-c-till-a-015m-97490ch/***********
+77**********24***********
+**********https://order.se/patchskarv-rj45-hona-ch4311/***********
+77**********25***********
+**********https://order.se/micro-usb-kabel-premium-gr-2m-97176ch/***********
+77**********26***********
+**********https://order.se/adapter-lightning-35mm-ladda-97220ch/***********
+77**********27***********
+**********https://order.se/micro-usb-kabel-premium-gr-1m-97172ch/***********
+77**********28***********
+**********https://order.se/lightning-kabel-1m-pu-lader-svart-97218ch/***********
+77**********29***********
+**********https://order.se/lightning-kabel-015m-97126ch/***********
+Spider error processing <GET https://order.se/> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\scraping\tool-python-scraper-csv-master\ORDER\scraping\spiders\order(all).py", line 122, in parse
+    self.driver.get(list2[j])
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=80.0.3987.149)
+
+Crawled 3 pages (at 3 pages/min), scraped 0 items (at 0 items/min)
+Closing spider (finished)
+Dumping Scrapy stats:
+{'downloader/request_bytes': 1330,
+ 'downloader/request_count': 5,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/response_bytes': 54919,
+ 'downloader/response_count': 5,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/301': 2,
+ 'elapsed_time_seconds': 265.120483,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 3, 26, 18, 26, 11, 550826),
+ 'log_count/DEBUG': 218,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 82,
+ 'response_received_count': 3,
+ 'robotstxt/request_count': 2,
+ 'robotstxt/response_count': 2,
+ 'robotstxt/response_status_count/200': 2,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'spider_exceptions/WebDriverException': 1,
+ 'start_time': datetime.datetime(2020, 3, 26, 18, 21, 46, 430343)}
+Spider closed (finished)

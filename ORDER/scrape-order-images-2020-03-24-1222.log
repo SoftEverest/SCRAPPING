@@ -1,0 +1,28 @@
+Start
+90**********3***********
+**********https://order.se/champion-c5716/butiksstall/***********
+90**********4***********
+**********https://order.se/champion-c5716/data-c6166/***********
+90**********5***********
+**********https://order.se/champion-c5716/hemhushall/***********
+90**********6***********
+**********https://order.se/champion-c5716/katalog/***********
+90**********7***********
+**********https://order.se/champion-c5716/ljudbild-c5717/***********
+Spider error processing <GET https://order.se/> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\scraping\tool-python-scraper-csv-master\ORDER\scraping\spiders\order(all).py", line 92, in parse
+    self.driver.get(list1[i])
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\a\appdata\local\programs\python\python38-32\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=80.0.3987.149)
+
+Crawled 3 pages (at 3 pages/min), scraped 0 items (at 0 items/min)

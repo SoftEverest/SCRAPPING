@@ -1,0 +1,127 @@
+Start
+90**********3***********
+**********https://order.se/champion-c5716/butiksstall/***********
+90**********4***********
+**********https://order.se/champion-c5716/data-c6166/***********
+listview non-exist
+45**********0***********
+**********https://order.se/stall-vit-plat-600mm-m-hjul-chstall065/***********
+rec_price non-exist
+45**********1***********
+**********https://order.se/stall-svart-plat-600mm-m-hjul-chstall060/***********
+rec_price non-exist
+45**********2***********
+**********https://order.se/stoppkort-chstoppkort/***********
+rec_price non-exist
+paragraph non-exist
+45**********3***********
+**********https://order.se/spjut-chstall065-10-pack-vit-chspjut015/***********
+rec_price non-exist
+45**********4***********
+**********https://order.se/spjut-chstall060-10-pack-svart-chspjut010/***********
+rec_price non-exist
+45**********5***********
+**********https://order.se/laddsynk-kabel-microusb-1m-svart-97111ch/***********
+45**********6***********
+**********https://order.se/laddsynk-kabel-lightning-1m-svart-97122ch/***********
+45**********7***********
+**********https://order.se/usb-20-c-till-a-1m-97410ch/***********
+45**********8***********
+**********https://order.se/laddsynk-kabel-lightning-1m-vit-97121ch/***********
+45**********9***********
+**********https://order.se/usb-20-c-till-a-2m-97412ch/***********
+45**********10***********
+**********https://order.se/laddsynk-kabel-lightning-2m-svart-97123ch/***********
+45**********11***********
+**********https://order.se/natverkskabel-cat6-utp-50m-ch4405/***********
+45**********12***********
+**********https://order.se/laddsynk-kabel-lightning-2m-vit-97120ch/***********
+45**********13***********
+**********https://order.se/natverkskabel-cat6-utp-30m-ch4403/***********
+45**********14***********
+**********https://order.se/natverkskabel-cat6-utp-150m-ch4421/***********
+45**********15***********
+**********https://order.se/laddsynk-kabel-lightning-3m-svart-97124ch/***********
+45**********16***********
+**********https://order.se/natverkskabel-cat6-utp-200m-ch4422/***********
+45**********17***********
+**********https://order.se/lightning-kabel-2m-pu-lader-svart-97219ch/***********
+45**********18***********
+**********https://order.se/laddsynk-kabel-microusb-2m-svart-97112ch/***********
+45**********19***********
+**********https://order.se/natverkskabel-cat6-utp-10m-ch4401/***********
+45**********20***********
+**********https://order.se/natverkskabel-cat5e-utp-100m-ch4306/***********
+45**********21***********
+**********https://order.se/patchskarv-rj45-hona-ch4311/***********
+45**********22***********
+**********https://order.se/natverkskabel-cat6-utp-100m-ch4406/***********
+45**********23***********
+**********https://order.se/usb-kab-ab-micro-usb-10m-ch4457/***********
+45**********24***********
+**********https://order.se/micro-usb-kabel-premium-gr-1m-97172ch/***********
+45**********25***********
+**********https://order.se/lightning-kabel-1m-pu-lader-svart-97218ch/***********
+45**********26***********
+**********https://order.se/micro-usb-kabel-premium-gr-2m-97176ch/***********
+45**********27***********
+**********https://order.se/adapter-lightning-35mm-ladda-97220ch/***********
+45**********28***********
+**********https://order.se/natverkskabel-cat5e-utp-50m-ch4305/***********
+45**********29***********
+**********https://order.se/usb-20-c-till-a-015m-97490ch/***********
+45**********30***********
+**********https://order.se/usb-20-c-till-a-2m-premium-svart-97382ch/***********
+45**********31***********
+**********https://order.se/usb-kabel-ab-mini-usb-18m-ch4454/***********
+45**********32***********
+**********https://order.se/usb-20-c-till-a-3m-97413ch/***********
+45**********33***********
+**********https://order.se/usb-20-kabel-a-b-hane-20m-ch4451/***********
+45**********34***********
+**********https://order.se/usb-31-gen2-c-c-2m-97460ch/***********
+45**********35***********
+**********https://order.se/lightning-kabel-2m-space-gray-97217ch/***********
+45**********36***********
+**********https://order.se/laddsynk-kab-usb-c-till-lightning-1m-svart-97310ch/***********
+45**********37***********
+**********https://order.se/lightning-kabel-015m-97126ch/***********
+45**********38***********
+**********https://order.se/natverkskabel-cat5e-utp-250m-ch4323/***********
+45**********39***********
+**********https://order.se/natverkskabel-cat5e-utp-30m-ch4303/***********
+45**********40***********
+**********https://order.se/natverkskabel-cat5e-utp-150m-ch4321/***********
+45**********41***********
+**********https://order.se/laddsynk-kabel-lightning-3m-vit-97125ch/***********
+45**********42***********
+**********https://order.se/usb-20-c-till-c-1m-97420ch/***********
+45**********43***********
+**********https://order.se/natverkskabel-cat5e-utp-10m-ch4301/***********
+45**********44***********
+**********https://order.se/micro-usb-kabel-premium-sv-1m-97170ch/***********
+Crawled 3 pages (at 3 pages/min), scraped 0 items (at 0 items/min)
+Closing spider (finished)
+Dumping Scrapy stats:
+{'downloader/request_bytes': 1330,
+ 'downloader/request_count': 5,
+ 'downloader/request_method_count/GET': 5,
+ 'downloader/response_bytes': 54966,
+ 'downloader/response_count': 5,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/301': 2,
+ 'elapsed_time_seconds': 510.249887,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 4, 1, 2, 53, 22, 203709),
+ 'log_count/DEBUG': 234,
+ 'log_count/INFO': 113,
+ 'response_received_count': 3,
+ 'robotstxt/request_count': 2,
+ 'robotstxt/response_count': 2,
+ 'robotstxt/response_status_count/200': 2,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2020, 4, 1, 2, 44, 51, 953822)}
+Spider closed (finished)
